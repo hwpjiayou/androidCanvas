@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hwp/Documents/android_project/yxb/androidCanvas/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94f3cb006198cff2dbdddcc4ce5ca8df733787bc">
+        <dex dex="/Users/hwp/Documents/android_project/yxb/androidCanvas/app/build/intermediates/pre-dexed/debug/classes_dabd5959f24830437a14794c519d72a84f351fee.jar" />
+    </item>
+
+</items>
